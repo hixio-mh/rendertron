@@ -44,7 +44,7 @@
     "koa-static": "^5.0.0",
     "performance-now": "^2.1.0",
     "puppeteer": "^10.0.0",
-    "semver": "^7.3.4"
+    "semver": "^7.3.6"
   },
   "devDependencies": {
     "@google-cloud/datastore": "^6.6.2",
