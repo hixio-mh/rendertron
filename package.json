@@ -44,13 +44,13 @@
     "koa-static": "^5.0.0",
     "performance-now": "^2.1.0",
     "puppeteer": "^10.0.0",
-    "semver": "^7.3.4"
+    "semver": "^7.3.7"
   },
   "devDependencies": {
     "@google-cloud/datastore": "^6.6.2",
     "@types/fs-extra": "^9.0.7",
     "@types/koa": "^2.13.4",
-    "@types/koa-bodyparser": "^4.3.3",
+    "@types/koa-bodyparser": "^4.3.7",
     "@types/koa-compress": "^4.0.3",
     "@types/koa-logger": "^3.1.2",
     "@types/koa-route": "^3.2.5",
